@@ -17,7 +17,7 @@ const LayoutPage = () => {
           fontWeight: "bold",
         },
         tabBarStyle: {
-          backgroundColor: "#f6f4d2",
+          backgroundColor: "#fce7f3",
         },
         tabBarActiveTintColor: "#4361ee",
         tabBarInactiveTintColor: "black",
@@ -45,4 +45,4 @@ const LayoutPage = () => {
   );
 }
 
-export default LayoutPage
+export default LayoutPage;
